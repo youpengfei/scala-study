@@ -1,4 +1,4 @@
-remote_contol
+scala_study
 =============
 
-因为项目一定要在远程启动所以启动这个项目
+一个scala学习的项目
